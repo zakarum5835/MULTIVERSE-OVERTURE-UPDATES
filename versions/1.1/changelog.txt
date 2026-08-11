@@ -1,4 +1,4 @@
-# First Fixes such as Broken Tags like #minecraft:enchantable/durability
+# First Fixes and Adjustments - v1.1
 This update is made to fix crashes with every Alex's mods and fixing broken vanilla tags
 
 Changes and Fixes:
