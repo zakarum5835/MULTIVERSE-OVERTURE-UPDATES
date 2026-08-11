@@ -6,6 +6,7 @@ Changes and Fixes:
 - Fixed `#minecraft:enchantable/durability` and `#minecraft:enchantable/bow` tags
 - Can't apply Mending enchantment in an Anvil while now it's fixed
 - Removed Citadel, was accidentally added so sorry
+- Removed Too Many Bows, was broken vanilla tags and more
 - Adjusted some Reward Tables Quests
 
 Always make a backup of your world
