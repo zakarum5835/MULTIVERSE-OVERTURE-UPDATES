@@ -1,0 +1,17 @@
+# Small Patch and Fixing some Stuff - v1.2
+Very small patch and hot fix and was causing crashes with Subtle Effects mod.
+
+Changes and Fixes:
+- Improved Performance
+- Removed Subtle Effects, wasn't able to launch the modpack
+- Fixed some Quests and custom images
+- Disabled every Vanilla Villages and Outposts
+
+New Mods:
+- Structory
+- Formations Nether
+- Formations Overworld
+- Improved Village Placement
+- When Dungeons Arise Forge!
+
+Always make a backup of your world
