@@ -1,6 +1,6 @@
 # Small Patch and Fixing some Stuff - v1.2
-
 Very small patch and hot fix and was causing crashes with Subtle Effects mod.
+
 
 Changes and Fixes:
 
