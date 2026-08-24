@@ -1,0 +1,61 @@
+# Perfection Update - v1.3
+This update is made to fix bunch of stuff such as enchantments, adding new mods and revamping the experience while going for more stability.
+
+Changes and Fixes:
+- Updated Mods
+- Improved Performance
+- Improved Overworld gen
+- Improved Shoulder Surfing Reloaded Perspective
+- Backported FTB Library (NeoForge) from 2101.1.35 to 2101.1.34
+- Fixed crashes with FTB Quests mods
+- Fixed enchantments for every Bow such as `tag minecraft:enchantable/bow`
+- Fixed enchantments for every Crossbow such as `minecraft:enchantable/crossbow`
+- Fixed some Reward Tables in Multiverse: Zaka Star Questline
+- Removed bugged Enchanting Apparatus recipe for `ars_elemental:invincible_book`
+- Created new Enchanting Apparatus recipes for certain Creative Items and Functional Blocks
+- Removed (Bee's) Fancy Crops and (Bee's) Fine Armory
+- Removed Animated items pack (emissive)
+- Removed Simple Lower Grass Sides (Replaced)
+- Removed Mandala's GUI Dark mode (Replaced)
+- Removed (Unofficial) Mandala's GUI Dark Mode Mod Compatibility (Replaced)
+- Removed Legendary Tooltips [Neo/Forge] (Replaced)
+- Removed Eating Animation [Neo/Forge]
+- Removed Alex's Caves (not working properly)
+- Removed Alex's Caves Better Combat
+- Removed Alex's Stories Questline
+- Removed Cinnabar Ores in every dimension (AllTheOres)
+- Enabled Trash Slot in every GUI
+- Crows doesn't steal food anymore (Alex's Mobs)
+- Seagull doesn't steal food anymore (Alex's Mobs)
+- Raccoon doesn't steal from chests anymore (Alex's Mobs)
+- Temporarily disabled `iceandfire:amphithere` spawn rate (Ice and Fire)
+- Disabled `iceandfire:pixie`natural spawn (Ice and Fire)
+- Disabled `alexsmobs:fly` natural spawn (Alex's Mobs)
+- Disabled `minecraft:zombie` natural spawn
+
+New Mods:
+- FTB Ranks (NeoForge)
+- Load My F***ing Tags
+- Too Many Bows
+- Comforts
+- Obscure Tooltips
+- Biome Music
+- Bad Mobs
+- [ETF] Entity Texture Features [Fabric & Forge]
+- [EMF] Entity Model Features [Fabric & Forge]
+
+New Quests:
+- Multiverse: Creative
+
+New Resource Packs:
+- Faithless
+- Fresh Moves
+- Sun and Moon Circular
+- HUD Reimagined
+- Shrimp's Immersive Interfaces
+- Immersive Interfaces Mod Support Unofficial
+
+New Shaders:
+- Legendary Atmosphere
+
+Always make a backup of your world
