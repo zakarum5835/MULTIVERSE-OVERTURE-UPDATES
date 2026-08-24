@@ -26,7 +26,6 @@ Changes and Fixes:
 - Removed Alex's Caves (not working properly)
 - Removed Alex's Caves Better Combat
 - Removed Alex's Stories Questline
-- Removed Cinnabar Ores in every dimension (AllTheOres)
 - Enabled Trash Slot in every GUI
 - Crows doesn't steal food anymore (Alex's Mobs)
 - Seagull doesn't steal food anymore (Alex's Mobs)
