@@ -4,6 +4,7 @@ This update is made to fix bunch of stuff such as enchantments, adding new mods 
 
 
 Changes and Fixes:
+
 - Updated Mods
 - Improved Performance
 - Improved Overworld gen
@@ -36,8 +37,8 @@ Changes and Fixes:
 - Disabled `minecraft:zombie` natural spawn
 
 
-
 New Mods:
+
 - FTB Ranks (NeoForge)
 - Load My F***ing Tags
 - Too Many Bows
@@ -49,13 +50,13 @@ New Mods:
 - [EMF] Entity Model Features [Fabric & Forge]
 
 
-
 New Quests:
+
 - Multiverse: Creative
 
 
-
 New Resource Packs:
+
 - Faithless
 - Fresh Moves
 - Sun and Moon Circular
@@ -64,10 +65,9 @@ New Resource Packs:
 - Immersive Interfaces Mod Support Unofficial
 
 
-
 New Shaders:
-- Legendary Atmosphere
 
+- Legendary Atmosphere
 
 
 Always make a backup of your world
