@@ -1,6 +1,8 @@
 # Perfection Update - v1.3
 This update is made to fix bunch of stuff such as enchantments, adding new mods and revamping the experience while going for more stability.
 
+
+
 Changes and Fixes:
 - Updated Mods
 - Improved Performance
@@ -33,6 +35,8 @@ Changes and Fixes:
 - Disabled `alexsmobs:fly` natural spawn (Alex's Mobs)
 - Disabled `minecraft:zombie` natural spawn
 
+
+
 New Mods:
 - FTB Ranks (NeoForge)
 - Load My F***ing Tags
@@ -44,8 +48,12 @@ New Mods:
 - [ETF] Entity Texture Features [Fabric & Forge]
 - [EMF] Entity Model Features [Fabric & Forge]
 
+
+
 New Quests:
 - Multiverse: Creative
+
+
 
 New Resource Packs:
 - Faithless
@@ -55,7 +63,11 @@ New Resource Packs:
 - Shrimp's Immersive Interfaces
 - Immersive Interfaces Mod Support Unofficial
 
+
+
 New Shaders:
 - Legendary Atmosphere
+
+
 
 Always make a backup of your world
