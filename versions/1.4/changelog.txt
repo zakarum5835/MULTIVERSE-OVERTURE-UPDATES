@@ -1,0 +1,49 @@
+# Perfection Update Part 2 - v1.4
+This update adds new mods that literally transform the entire enviroment of this Universe.
+
+
+
+Changes and Fixes:
+
+- Updated Mods
+- Improved Performance
+- Improved Overworld gen
+- Improved BetterNether gen
+- Improved BetterEnd gen
+- Improved Jade box under Xaero's Minimap
+- Removed Sound Physics Remastered (Replaced)
+- Removed Lootr (not working properly with Clavis)
+- Backported Open Parties and Claims from 0.29.3 to 0.27.5
+- Fixed Pillagers and Vindicator attacks
+- Configured Open Parties and Claims
+- Reduced `quark:stonelig` spawn rate (Quark)
+- Reduced `quark:toretoise` spawn rate (Quark)
+
+
+New Mods:
+
+- Sound Physics Perfected
+- Presence Footsteps (NeoForge)
+- Immersive Messages API
+- Immersive Damage Indicators
+- Immersive Optimization
+- JeremySeq's Damage Indicators
+- Explosive Enhancement Reforged
+- Fancy World Animations
+- Damage Number
+- ATMOSPHERICS
+- Too Many Entities
+- MobEffectsVFX
+- Responsive Shields
+- Seramicx's Smooth F5
+
+  
+New Resource Packs:
+
+- True Doors
+- Chipote Chillon
+- Zero's Modern Crosshair
+- Fresh Animations
+
+
+Always make a backup of your world
