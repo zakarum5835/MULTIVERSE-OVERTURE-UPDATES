@@ -4,7 +4,7 @@ Various balances in Overworld dimension with various modded mobs and added new m
 
 
 Changes and Fixes:
-- Updated NeoForge from 21.1.247 to 21.1.249
+
 - Improved Performance
 - Improved World Loading Screen
 - Improved Damage Number indicators
