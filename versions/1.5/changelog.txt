@@ -1,0 +1,40 @@
+# Perfection Update Part 3! - v1.5
+Various balances in Overworld dimension with various modded mobs and added new mods. Xaero's World Map is also improved and bringing new content to the modpack adding new mods such as Cat Fighting, Legendary Shrines and Exolith!
+
+
+
+Changes and Fixes:
+- Updated NeoForge from 21.1.247 to 21.1.249
+- Improved Performance
+- Improved World Loading Screen
+- Improved Damage Number indicators
+- Improved Damage Indicators
+- Improved Xaero's Minimap
+- Disabled Aether Tips in World Loading Screen
+- Disabled Aether Patreon Message in the Inventory
+- Increased Health and Attacks for Every Dragon (Ice and Fire)
+- Removed Cinnabar. Peridot, Ruby and Sapphire Ores (All The Ores)
+- Added Allthemodium, Vibranium and Unobtainium Brushes (Allthemodium)
+- Fixed Health and Attacks for Sandworm and Helvar, the Underworld Knight (Bosses' Rise)
+
+
+Mods:
+
+- Updated Ethecore, Legendary Monsters, Allthemodium
+- Removed Immersive Damage Indicators, Visual Workbench
+- Added Shoulder Surfing Reloaded: Camera Fixes & Additions
+- Added Better Mount Steering
+- Added Dragon Mounts Remastered
+- Added Cat Fighting
+- Added TslatEntityStatus (TES)
+- Added TslatEffectsLib
+- Added Exolith
+- Added Legendary Shrines
+
+
+New Quests:
+
+- Farmer's Delight
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD
