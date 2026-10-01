@@ -1,0 +1,40 @@
+# Apocalypse Era is Coming... - v1.6
+This update finally fixes the issue with Night Vision Goggles from Artifacts mod while adding new quests, mods and the Apocalypse Era is also coming on this Timeline. You better watch out.
+
+
+
+Changes and Fixes:
+- Improved Performance
+- Improved Main Menu
+- Improved Loading Screens
+- Improved FTB Quests HUD
+- Improved Xaero's Minimap
+- Fixed Night Vision Goggles ability not working properly (Artifacts)
+- Fixed Chapter II: Preparing Questline
+- Fixed Multiverse: Zaka Star Questline
+- Fixed Better Nether Questline
+- Updated Artifacts & Relics Questline
+- Created a new Enchanting Apparatus recipe for Peter Griffin Plushie (Plushie Buddies)
+
+
+Mods:
+
+- Updated Ethecore, Exolith, L_Ender 's Cataclysm, Cataclysm's Rise
+- Added Simple Voice Chat
+- Added Ribbits
+- Removed Relics: Arcane Abilities
+
+
+New Quests:
+
+- ???????
+- Plushies
+- Star Wars Plushies
+
+
+Resource Packs:
+
+- Added Excalibur | FTB Suite (Library, Chunks, Teams, Quests)
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD
