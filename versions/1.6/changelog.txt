@@ -4,6 +4,7 @@ This update finally fixes the issue with Night Vision Goggles from Artifacts mod
 
 
 Changes and Fixes:
+
 - Improved Performance
 - Improved Main Menu
 - Improved Loading Screens
