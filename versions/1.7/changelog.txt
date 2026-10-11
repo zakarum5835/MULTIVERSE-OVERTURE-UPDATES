@@ -1,0 +1,46 @@
+# Halloween Update! - v1.7
+This update is primarly made with the intention of bringing more content to the modpack such as new Halloween mods and resource packs. Aiming for more stability and the Apocalypse Era is almost arriving to this Timeline!
+
+
+
+Changes and Fixes:
+
+- Improved Performance
+- Improved Main Menu for the Halloween Event
+- Improved Overworld gen
+- Created a Warning Message regarding the Apocalypse Era
+- Fixed visual issue in certain dimensions such as The Aether, Otherside and more
+- Fixed an issue regarding ServerPacks not loading some KubeJS scripts properly
+- Fixed Simply Tooltips message appearing everytime (Simply Tooltips)
+- Fixed unexpected login timeout while joining any world
+- Disabled variant chests from Quark (Quark)
+- Disabled Simple Voice Chat message upon joining any world
+- Temporarily disabled Faithless resource pack for the Halloween event
+- Changed click sound (RPG Sound Button)
+
+
+Mods:
+
+- Updated Allthemodium
+- Added Chat Animation [Smooth Chat]
+- Added Autumnity
+- Added Eyes in the Darkness
+- Added Caverns & Chasms
+- Added Fangs 'n Claws
+- Added Hominid
+- Added Better Fog
+- Added Macaw's Holidays
+- Removed ATMOSPHERICS, AAA Particles
+  
+
+Quests:
+
+- Happy Halloween!!
+
+
+Resource Packs:
+
+- Added Default-Style Halloween Pack
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD
