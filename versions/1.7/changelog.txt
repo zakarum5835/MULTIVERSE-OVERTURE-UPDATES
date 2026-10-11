@@ -30,6 +30,7 @@ Mods:
 - Added Hominid
 - Added Better Fog
 - Added Macaw's Holidays
+- Added Blueprint
 - Removed ATMOSPHERICS, AAA Particles
 
 
