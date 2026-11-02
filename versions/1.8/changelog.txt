@@ -22,7 +22,7 @@ Mods:
 - Updated Exolith
 - Added Enhanced Boss Bars (Fabric/Forge/NeoForge)
 - Added GTBC's Cataclysmic Boss UI
-- Removed Ender's Delight, Overflowing Bars, AppleSkin
+- Removed Ender's Delight
 
 
 Resource Packs:
