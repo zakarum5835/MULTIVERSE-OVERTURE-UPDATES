@@ -1,0 +1,33 @@
+# Various Balances and Fixes! - v1.8
+This update introduces various balances between Bosses, Music Discs drops, needed for the special Music Disc Abstraction. Various fixes and adding new mods while going for more stability.
+
+
+
+Changes and Fixes:
+
+- Halloween Event ends now
+- Changed Background for the Main Menu, since Halloween is finished
+- Improved Performance
+- Reduced Meteorite spawn rate (Exolith)
+- Meteors from Exolith won't damage terrain anymore (Exolith)
+- Removed Ender's Delight, was causing crashes while exploring End dimension
+- Enhanced Boss bars for Vanilla and Modded bosses
+- Introduced custom UI for every Cataclysm's Boss (GTBC's Cataclysmic Boss UI)
+- Fixed Music Disc drops from Cataclysm, Iron's Spells 'n Spellbooks and Legendary Monsters bosses, the drops are guaranteed after defeating one of them.
+- Updated Multiverse: Zaka Star Questline
+
+
+Mods:
+
+- Updated Exolith
+- Added Enhanced Boss Bars (Fabric/Forge/NeoForge)
+- Added GTBC's Cataclysmic Boss UI
+- Removed Ender's Delight, Overflowing Bars, AppleSkin
+
+
+Resource Packs:
+
+- Removed Enhanced Boss Bars
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD
